@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gabrielsantanap&label=Profile%20views&color=0e75b6&style=flat" alt="gabrielsantanap" /> </p>
 
-- 🔭No momento estou trabalhando com **JAVA, MYSQL, HTML, CSS E JAVASCRIPT**
+- 🔭No momento estou trabalhando com **NODE, MONGODB, REACT, e CSS**
 
 - 🌱 Atualmente estou estudando em **JAVA E MYSQL**
 
